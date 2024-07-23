@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dailyAffirmation" type="id"/>
+    <item name="moodSpinner" type="id"/>
+    <item name="saveMoodButton" type="id"/>
+    <item name="moodListView" type="id"/>
+</resources>

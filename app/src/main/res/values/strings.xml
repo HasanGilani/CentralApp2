@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CentralApp</string>
+    <string-array name="operations">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+    </string-array>
+    <string name="you_are_capable_of_amazing_things">You are capable of amazing things!</string>
+    <string name="save_mood">Save Mood</string>
+    <string-array name="moods_array">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Excited</item>
+        <item>Angry</item>
+    </string-array>
+</resources>
